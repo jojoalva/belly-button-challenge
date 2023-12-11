@@ -14,7 +14,7 @@
 
     Use otu_labels as the hovertext for the chart.
 
-    ![Alt text](image.png)
+    ![Bar chart](image.png)
 
     Create a bubble chart that displays each sample.
 
@@ -28,7 +28,7 @@
 
     Use otu_labels for the text values.
 
-    ![Alt text](image-1.png)
+    ![Bubble chart](image-1.png)
 
     Display the sample metadata, i.e., an individual's 
     demographic information.
@@ -36,14 +36,14 @@
     Display each key-value pair from the metadata JSON 
     object somewhere on the page.
 
-    ![Alt text](image-2.png)
+    ![Metadata](image-2.png)
 
     Update all the plots when a new sample is selected.
 
     Adapt the Gauge Chart to plot the weekly washing frequency of the 
     individual for values ranging from 0 through 9.
 
-    ![Alt text](image-3.png)
+    ![Gauge chart](image-3.png)
 
     Update the chart whenever a new sample is selected.
 
@@ -55,7 +55,7 @@
 
     The below dashboard should now be visible:
 
-    ![Alt text](image-4.png)
+    ![Dashboard](image-4.png)
 
     Scroll through the data using the dropdown box, and there you will see
     the dashboard updates as you choose different IDs.
