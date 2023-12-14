@@ -1,5 +1,7 @@
 # Belly Button Challenge
 ## Javascript static page to load data on different belly buttons, observed in a study
+### This page is hosted on github pages at: https://jojoalva.github.io/belly-button-challenge/
+
 
 **Project aim:**
 
